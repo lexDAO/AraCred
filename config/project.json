@@ -6,7 +6,7 @@
   {
     "id": "@Test",
     "discord": {
-      "guildId": "695344751490236486",
+      "guildId": "682960432272506907",
       "reactionWeights": {
         "👍": 1,
         "🔥": 1,
@@ -164,52 +164,112 @@
     "repoIds": [
       {
         "name": "AraCred",
-        "owner": "aracred"
+        "owner": "lexdao"
       },
       {
-        "name": "website",
-        "owner": "aracred"
+        "name": "escrow",
+        "owner": "lexdao"
       },
       {
-        "name": "bot",
-        "owner": "aracred"
+        "name": "txlscript",
+        "owner": "lexdao"
       },
       {
-        "name": "onboarding",
-        "owner": "aracred"
+        "name": "landing-page",
+        "owner": "lexdao"
       },
       {
-        "name": "TheSource",
-        "owner": "aracred"
+        "name": "opencourt",
+        "owner": "lexdao"
       },
       {
-        "name": "governance",
-        "owner": "aracred"
+        "name": "lextoken",
+        "owner": "lexdao"
       },
       {
-        "name": "comms",
-        "owner": "aracred"
+        "name": "airdrop",
+        "owner": "lexdao"
       },
       {
-        "name": "leaderboard",
-        "owner": "aracred"
+        "name": "security-token",
+        "owner": "lexdao"
       },
       {
-        "name": "aracred-cli",
-        "owner": "aracred"
+        "name": "legal-engineers",
+        "owner": "lexdao"
       },
       {
-        "name": "aracred-init",
-        "owner": "aracred"
+        "name": "spells",
+        "owner": "lexdao"
       },
       {
-        "name": "aracred-template",
-        "owner": "aracred"
+        "name": "lexdao-design-assets",
+        "owner": "lexdao"
       },
       {
-        "name": "ideas",
-        "owner": "aracred"
-      }
+        "name": "lexdao-docs",
+        "owner": "lexdao"
+      },
+      {
+        "name": "moloch-minion",
+        "owner": "lexdao"
+      },
+      {
+        "name": "tldr",
+        "owner": "lexdao"
+      },
+      {
+        "name": "erc20-generator",
+        "owner": "lexdao"
+      },
+      {
+        "name": "offer-token",
+        "owner": "lexdao"
+      },
+      {
+        "name": "products",
+        "owner": "lexdao"
+      },
+      {
+        "name": "lexbank",
+        "owner": "lexdao"
+      },
+      {
+        "name": "lee",
+        "owner": "lexdao"
+      },
+      {
+        "name": "assets",
+        "owner": "lexdao"
+      },
+      {
+        "name": "nakamotoinstitute.org",
+        "owner": "lexdao"
+      },
+      {
+        "name": "themis",
+        "owner": "lexdao"
+      },
+      {
+        "name": "personal-tokens",
+        "owner": "lexdao"
+      },
+      {
+        "name": "moneystamps",
+        "owner": "lexdao"
+      },
+      {
+        "name": "digital-secretary.sol",
+        "owner": "lexdao"
+      },
+      {
+        "name": "ait",
+        "owner": "lexdao"
+      },
+      {
+        "name": "web3-essentials",
+        "owner": "lexdao"
+      },
     ]
   }
 ]
